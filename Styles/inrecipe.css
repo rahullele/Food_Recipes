@@ -1,0 +1,88 @@
+body
+{font-family:lucida grande,tahoma,veranda,arial,sans-serif;
+
+background-image: url(../Images/background.jpg);
+}
+#wrapper{
+width:1080px;
+
+margin:0 auto;
+padding:10px;
+border:5px solid #dedede;
+height:1080px; 
+background-color:#150a03;
+/* Backgro;
+/* Background Gradient for Monochromatic Colors */
+  
+    /* For WebKit (Safari, Chrome, etc) */
+    /*  background: #FFCE9D -webkit-gradient(linear, left top, left bottom, from(#A65403), to(#FFCE9D)) no-repeat;
+    /* Mozilla,Firefox/Gecko */
+   /* background: #FFCE9D -moz-linear-gradient(top, #A65403, #FFCE9D) no-repeat;*/
+    /* IE 5.5 - 7 */
+   /* filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#A65403, endColorstr=#FFCE9D) no-repeat;
+   
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#A65403, endColorstr=#A65403)" no-repeat;*/
+}
+#banner{
+    width:1080px;
+    height:300px;
+    overflow:hidden;
+}
+.image{
+    width:300px;
+    height:300px;
+    float:left;
+}
+#tiche title{
+    width:400px;
+    height:100px;
+}
+#chef{
+    postion:relative;
+    width:400px;
+    height:200px;
+   background-color: #ffce9d; 
+   overflow:hidden;
+   float:right;
+}
+#navigation
+{
+height:60px;
+margin-top: 0.5px;
+text-shadow:0.1em 0.1em #3333;
+ background-color: #ffce9d;
+}
+h3{
+    font-family:Comic Sans, Comic Sans MS, cursive;
+    font-style:italic;
+    font-weight: bold;
+    color:white;
+}
+#title h3{
+    
+   
+   font-family:Comic Sans, Comic Sans MS, cursive;
+    font-style:italic;
+    font-weight: bold;
+    color:white; 
+}
+#ingredients{
+    width:1080px;
+    height:200px;
+    background-color: #ffce9d;
+}
+#preparation{
+    width:1080px;
+    height:325px;
+    background-color: #ffce9d;
+    
+}
+#tiche{
+   postion:relative;
+    width:400px;
+    height:300px;
+  overflow:hidden;
+   float:right; 
+}
+
+

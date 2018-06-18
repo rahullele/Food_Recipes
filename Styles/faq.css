@@ -1,0 +1,68 @@
+﻿body{
+    background-image: url(../Images/wood.jpg);
+    }
+#wrapper{
+        width:1080px;
+
+margin:50px;
+padding:10px;
+
+height:800px;
+/* Background Gradient for Monochromatic Colors */
+  
+     /*For WebKit (Safari, Chrome, etc) */
+     /* background: #FFCE9D -webkit-gradient(linear, left top, left bottom, from(#A65403), to(#FFCE9D)) no-repeat;
+     /* Mozilla,Firefox/Gecko */
+   /* background: #FFCE9D -moz-linear-gradient(top, #A65403, #FFCE9D) no-repeat;
+ 
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#A65403, endColorstr=#FFCE9D) no-repeat;
+   
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#A65403, endColorstr=#A65403)" no-repeat;*/
+       
+    }
+    #head{
+           float:left;
+            width:300px;
+            height:100px;
+            
+    }
+    #head h1{
+  
+    font-family:Comic Sans, Comic Sans MS, cursive;
+    font-style:italic;
+    font-weight: bold;
+    color:black;
+    text-align: center;
+    
+    }
+    #abc{
+        float:left;
+        width:450px;
+        height:100px;
+        border: black;
+    }
+    #img{
+        background-image: url(../Images/faq.png);
+        width:100px;
+        height:100px;
+        border:black;
+        float:left;
+    }
+    #content{
+        width:1080px;
+        height:700px;
+        font-family:Comic Sans, Comic Sans MS, cursive;
+    font-style:italic;
+    font-weight: bold;
+    font-size:larger; 
+    }
+    #xyz{
+        width:230px;
+        height:100px;
+    }
+
+    
+
+
+ 
+ 
